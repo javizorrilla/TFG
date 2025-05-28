@@ -1,4 +1,7 @@
 # TFG - Optimización personalizada de las dinámicas laborales
+
+👦🏻 Javier Zorrilla Serrano
+
 #### 📍Descripción: 
 Desarrollo e implementación de dos modelos de redes neuronales profundas totalmente conectadas (FC-DNN), uno predictivo y otro de clasificación, mediante el uso de Python, junto con las librerías de TensorFlow y Keras, claves para el aprendizaje profundo.
 
