@@ -1,6 +1,6 @@
 # TFG - Optimización personalizada de las dinámicas laborales
 #### 📍Descripción: 
-Desarrollo e implementación de dos modelos de redes neuronales profundas totalmente conectadas (FC-DNN), uno predictivo y otro de clasificación.
+Desarrollo e implementación de dos modelos de redes neuronales profundas totalmente conectadas (FC-DNN), uno predictivo y otro de clasificación, mediante el uso de Python, junto con las librerías de TensorFlow y Keras, claves para el aprendizaje profundo.
 
 #### 🎯Objetivos:
 - El modelo de regresión se encarga de predecir tres variables objetivo: "Valoración general del teletrabajo", "Productividad laboral" y "Satisfacción laboral", a partir de las relaciones profundas entre las características existentes para capturar patrones en los datos.
